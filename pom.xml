@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.159.14.22:8000/repository/cbank-snapshot/:wq</url>
+	      <url>http://54.159.14.22:8000/repository/cbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
